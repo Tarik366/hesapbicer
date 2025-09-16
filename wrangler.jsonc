@@ -1,6 +1,6 @@
 {
 	"name": "hesapbicer",
-	"main": "./.cloudflare/index.js",
+	"main": "./.svelte-kit/output/server/index.js",
 	"site": {
 		"bucket": ".svelte-kit/output/server/index.js"
 	},
