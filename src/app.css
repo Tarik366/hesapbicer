@@ -1,0 +1,7 @@
+
+@import "https://www.nerdfonts.com/assets/css/webfont.css";
+@import 'tailwindcss';
+
+* {
+    color: oklab(69.926% 0 -0.00008);
+}
