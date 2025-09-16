@@ -1,6 +1,6 @@
 {
 	"name": "hesapbicer",
-	"main": "./.cloudflare/worker.js",
+	"main": "./.cloudflare/index.js",
 	"site": {
 		"bucket": "./.cloudflare/public"
 	},
