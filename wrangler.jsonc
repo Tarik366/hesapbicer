@@ -2,7 +2,7 @@
 	"name": "hesapbicer",
 	"main": "./.cloudflare/index.js",
 	"site": {
-		"bucket": "./.cloudflare/public"
+		"bucket": ".svelte-kit/output/server/index.js"
 	},
 	"build": {
 		"command": "npm run build"
